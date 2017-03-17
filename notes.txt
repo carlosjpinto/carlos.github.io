@@ -1,0 +1,4 @@
+write:
+- what is background css
+- why doctype is at the top of the html
+- why having a backgroung image is not responsive since it depends on the resolution of the screen
